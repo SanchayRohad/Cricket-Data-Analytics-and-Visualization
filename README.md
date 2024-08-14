@@ -1,9 +1,8 @@
 # Cricket-Data-Analytics-and-Visualization
 Cricket Data Analytics and Visualization
 
-# H1 Problem Statement :
-Alt-H1
--------------------------
+# Problem Statement :
+
 In this project, a Power BI Dashboard was developed to analyze and compare the performances of all players participating in the ICC T20 Men's Cricket World Cup 2024. The dashboard provides an interactive platform to evaluate player performances and facilitates the selection of the best 11 players of the tournament, based on specific performance criteria outlined in the problem statement.
 
 
