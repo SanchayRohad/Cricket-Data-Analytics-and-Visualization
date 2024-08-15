@@ -30,9 +30,7 @@ Data visualization for the dataset was done using Microsoft Power BI Desktop:
 ![Final 11](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/Final%2011.png)
 
 ## Tools, Software and Libraries :
-1.Jupyter Notebook
-
-2.Python
+1.Jupyter Notebook     2.Python
 
 3.Pandas
 
