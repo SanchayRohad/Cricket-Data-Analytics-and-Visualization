@@ -5,7 +5,7 @@ Cricket Data Analytics and Visualization
 
 In this project, a Power BI Dashboard was developed to analyze and compare the performances of all players participating in the ICC T20 Men's Cricket World Cup 2024. The dashboard provides an interactive platform to evaluate player performances and facilitates the selection of the best 11 players of the tournament, based on specific performance criteria outlined in the problem statement.
 # Datasource :
-Scrapped all the data regarding match and world cup from [https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166](ESPN WorldCup 2024) and all details of player career performace and collect data on brightdata
+Scrapped all the data regarding match and world cup from [ESPN WorldCup 2024](https://www.espncricinfo.com/series/icc-men-s-t20-world-cup-2024-1411166) and all details of player career performace and collect data on brightdata
 
 # Data Collection:
 Scrapped all the data regarding match and world cup and all details about players career from brightdata using Beautiful Soup library and Jupyter Notebook is used to convert the json files into the dataframes and then these dataframes into csv file for further data analysis on power bi.
