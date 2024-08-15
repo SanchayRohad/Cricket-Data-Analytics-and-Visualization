@@ -22,7 +22,7 @@ Connected all the datasets with based on some defined primary keys such as team 
 Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 ## Player Analysis
-https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/f666c47aec29f51a90f7f67b081f4609392b3e36/Screenshots/Allrounders.png
+![Allrounders](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/f666c47aec29f51a90f7f67b081f4609392b3e36/Screenshots/Allrounders.png)
 
 
 ## Tools, Software and Libraries :
