@@ -22,8 +22,12 @@ Connected all the datasets with based on some defined primary keys such as team 
 Data visualization for the dataset was done using Microsoft Power BI Desktop:
 
 ## Player Analysis
+![Openers](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/front%20page.png)
+![Middle Order](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/Middle%20Order.png)
 ![Allrounders](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/f666c47aec29f51a90f7f67b081f4609392b3e36/Screenshots/Allrounders.png)
-
+![Bowlers](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/Bowlers.png)
+![PlayerInfo](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/main/Screenshots/Player%20Summary%20throughout%20worldcup.png)
+![Final 11](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/Final%2011.png)
 
 ## Tools, Software and Libraries :
 1.Jupyter Notebook
@@ -47,3 +51,8 @@ https://codebasics.io/courses
 
 ## powerBI Dashboard
 [Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjEyNDAyMjYtMTc4Ni00NjRmLThiOGEtODFmNzUzZjg4YTgwIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection3a8cb23b814911c94608)
+
+## or
+
+## Scan QRCode to explore Live Dashboard
+![QR](https://github.com/SanchayRohad/Cricket-Data-Analytics-and-Visualization/blob/6f9f413ef5180f02e6339caf9abc68a3d7a15641/Screenshots/QRCODE.png)
